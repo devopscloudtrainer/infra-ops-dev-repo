@@ -1,0 +1,7 @@
+[root@ip-172-31-11-232 infra-ops-dev-repo]# git merge origin/main 
+Updating a1bd90a..b052cf6
+Fast-forward
+ work-sample.txt | 4 ++++
+ 1 file changed, 4 insertions(+)
+ create mode 100644 work-sample.txt
+[root@ip-172-31-11-232 infra-ops-dev-repo]# 
