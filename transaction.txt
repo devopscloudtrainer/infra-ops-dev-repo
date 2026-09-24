@@ -1,0 +1,1 @@
+git pull is used for downloading the updated changes from remote github repository branch to local git repository branch.
