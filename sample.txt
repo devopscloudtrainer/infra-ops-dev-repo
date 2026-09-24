@@ -2,4 +2,5 @@
     * Branch creation and deletion
     * Tag creation and deletion
     * Add files and commit changes
-    * List commits and check detailed info about commits
+    * List commits and check detailed info about version history
+    * Work is in progress
